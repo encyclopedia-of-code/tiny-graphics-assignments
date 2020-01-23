@@ -7,7 +7,7 @@ https://github.com/intro-graphics-master/a3_s19
 https://github.com/intro-graphics-master/a4_s19  
 (Scroll down to the readme portion  This is where students read a guided tour on common graphics operations.)
 
-Around 1000 students based their course projects on tiny-graphics.js, a sampling of which students opted to host here:
+Around 1000 students based their course projects on tiny-graphics.js, a sampling of which students opted to host here:  
 http://web.cs.ucla.edu/~dt/courses/CS174A/animations/assignment2-best-17f/
 
 Students were enabled by tiny-graphics.js to efficiently learn the mathematical underpinnings of graphics.
