@@ -3,7 +3,7 @@
 The Github-based programming assignments linked below are based on the tiny-graphics.js library.  
 
 https://github.com/intro-graphics-master/a1_s19
-https://github.com/intro-graphics-master/a3_s19  
+https://github.com/intro-graphics-master/a3_s19
 https://github.com/intro-graphics-master/a4_s19
 (Scroll down to the readme portion  This is where students read a guided tour on common graphics operations.)
 
