@@ -2,7 +2,7 @@
 
 The Github-based programming assignments linked below are based on the tiny-graphics.js library.  
 
-[https://github.com/intro-graphics-master/a1_s19](Assignment #1: Environment Setup)
+[Assignment #1: Environment Setup](https://github.com/intro-graphics-master/a1_s19)
 Assignment #2: Use WebGL calls in a simple program to draw shapes (this one did not use tiny-graphics.js)
 [https://github.com/intro-graphics-master/a3_s19](Assignment #3: Place some shapes (matrix transformations and their order))
 [https://github.com/intro-graphics-master/a4_s19](Assignment #4: Modify shaders for a scene)
