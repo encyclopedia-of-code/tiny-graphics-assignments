@@ -11,7 +11,12 @@ Students were enabled by tiny-graphics.js to efficiently learn the mathematical 
 Github-based programming assignments linked below used the tiny-graphics.js framework.  They are custom assignments made for UCLA's computer graphics course.
 
 [Assignment #1: JavaScript Workflow Tutorial](https://github.com/intro-graphics-master/a1_s19)  
+
 Assignment #2: WebGL calls (did not use tiny-graphics.js)  
+
 [Assignment #3: Place some shapes (matrix transformations and their order)](https://github.com/intro-graphics-master/a3_s19)  
+
+![Assignment 3](assets/3.gif "Assignment 3 deliverable")
+
 [Assignment #4: Modify shaders for a scene](https://github.com/intro-graphics-master/a4_s19)  
 (Scroll down to the readme portion  This is where students read a guided tour on common graphics operations.)
