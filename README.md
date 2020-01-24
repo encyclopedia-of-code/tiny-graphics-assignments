@@ -27,4 +27,5 @@ Deliverable:
 
 The development of tiny-graphics.js was one of the main subjects of a published article at the Web3D 2019 conference.  
 Read it here:  
-http://web.cs.ucla.edu/~dt/papers/web3d19/web3d19.pdf  "An Online Collaborative Ecosystem for Educational Computer Graphics"
+http://web.cs.ucla.edu/~dt/papers/web3d19/web3d19.pdf  
+("An Online Collaborative Ecosystem for Educational Computer Graphics")
