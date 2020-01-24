@@ -1,5 +1,8 @@
 # tiny-graphics-assignments
 
+For the git repo of the tiny-graphics.js library itself, visit this address:
+https://github.com/encyclopedia-of-code/tiny-graphics-js
+
 These Github-based programming assignments (linked below) used the tiny-graphics.js framework.  They are custom assignments made for UCLA's computer graphics course.  The ones that use tiny-graphics.js are on GitHub at the links below:
 
 [Assignment #1: JavaScript Workflow Tutorial](https://github.com/intro-graphics-master/a1_s19)  
@@ -12,5 +15,3 @@ Around 1000 students based their course projects on tiny-graphics.js, a sampling
 http://web.cs.ucla.edu/~dt/courses/CS174A/animations/assignment2-best-17f/
 
 Students were enabled by tiny-graphics.js to efficiently learn the mathematical underpinnings of graphics.
-
-tiny-graphics.js itself has a home on GitHub [as well](https://github.com/encyclopedia-of-code/tiny-graphics-js), though I haven't kept it up to date as I've learned more coding practices.
