@@ -6,7 +6,7 @@ https://github.com/encyclopedia-of-code/tiny-graphics-js
 Around 1000 students based their course projects on tiny-graphics.js, a beautiful sampling of which some students opted to host here:  
 http://web.cs.ucla.edu/~dt/courses/CS174A/animations/assignment2-best-17f/
 
-Students were enabled by tiny-graphics.js to efficiently learn the mathematical underpinnings of graphics.
+Students were enabled by tiny-graphics.js to efficiently learn the mathematical underpinnings of graphics with in-class code examples.
 
 The tiny-graphics.js framework is what powered the custom Github-based programming assignments linked below.  These new assignments were used for UCLA's computer graphics course in Spring 2019.
 
