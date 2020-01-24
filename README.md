@@ -1,6 +1,6 @@
 # tiny-graphics-assignments
 
-For the git repo of the tiny-graphics.js library itself, visit this address:
+For the git repo of the tiny-graphics.js library itself, visit this address:  
 https://github.com/encyclopedia-of-code/tiny-graphics-js
 
 These Github-based programming assignments (linked below) used the tiny-graphics.js framework.  They are custom assignments made for UCLA's computer graphics course.  The ones that use tiny-graphics.js are on GitHub at the links below:
