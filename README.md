@@ -8,7 +8,7 @@ http://web.cs.ucla.edu/~dt/courses/CS174A/animations/assignment2-best-17f/
 
 Students were enabled by tiny-graphics.js to efficiently learn the mathematical underpinnings of graphics.
 
-Github-based programming assignments linked below used the tiny-graphics.js framework.  They are custom assignments made for UCLA's computer graphics course.
+The tiny-graphics.js framework is what powered the custom Github-based programming assignments linked below.  These new assignments were used for UCLA's computer graphics course in Spring 2019.
 
 [Assignment #1: JavaScript Workflow Tutorial](https://github.com/intro-graphics-master/a1_s19)  
 (Scroll down to the readme portion)
