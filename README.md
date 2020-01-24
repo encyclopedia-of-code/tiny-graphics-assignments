@@ -1,8 +1,8 @@
 # tiny-graphics-assignments
 
-The Github-based programming assignments linked below are the best demos of the tiny-graphics.js framework.  They are custom assignments made for UCLA's computer graphics course.  The ones that use tiny-graphics.js are on GitHub at the links below:
+These Github-based programming assignments (linked below) used the tiny-graphics.js framework.  They are custom assignments made for UCLA's computer graphics course.  The ones that use tiny-graphics.js are on GitHub at the links below:
 
-[Assignment #1: Environment Setup](https://github.com/intro-graphics-master/a1_s19)  
+[Assignment #1: JavaScript Workflow Tutorial](https://github.com/intro-graphics-master/a1_s19)  
 Assignment #2: WebGL calls (did not use tiny-graphics.js)  
 [Assignment #3: Place some shapes (matrix transformations and their order)](https://github.com/intro-graphics-master/a3_s19)  
 [Assignment #4: Modify shaders for a scene](https://github.com/intro-graphics-master/a4_s19)  
