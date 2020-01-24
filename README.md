@@ -13,4 +13,4 @@ http://web.cs.ucla.edu/~dt/courses/CS174A/animations/assignment2-best-17f/
 
 Students were enabled by tiny-graphics.js to efficiently learn the mathematical underpinnings of graphics.
 
-My library lives on GitHub [https://github.com/encyclopedia-of-code/tiny-graphics-js](too), though I haven't kept it up to date as I've learned more coding practices.
+tiny-graphics.js itself has a home on GitHub [https://github.com/encyclopedia-of-code/tiny-graphics-js](as well), though I haven't kept it up to date as I've learned more coding practices.
