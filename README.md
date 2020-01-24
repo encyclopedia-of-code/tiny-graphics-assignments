@@ -17,10 +17,10 @@ Assignment #2: WebGL calls (did not use tiny-graphics.js)
 
 [Assignment #3: Place some shapes (matrix transformations and their order)](https://github.com/intro-graphics-master/a3_s19)   
 
-Deliverable:
+Deliverable:  
 ![Assignment 3](assets/3.gif "Assignment 3 deliverable")
 
 [Assignment #4: Modify shaders for a scene](https://github.com/intro-graphics-master/a4_s19)  
 
-Deliverable:
+Deliverable:  
 ![Assignment 4](assets/4.gif "Assignment 4 deliverable")
